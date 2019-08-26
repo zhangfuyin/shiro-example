@@ -11,4 +11,6 @@ package com.zhangfy.po;
  */
 public class ItemsCustom extends Items{
 
+    // private String ss  // 测试 branch merge
+
 }
