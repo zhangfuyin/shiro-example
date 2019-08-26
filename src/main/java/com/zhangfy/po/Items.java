@@ -5,6 +5,9 @@ import java.util.Date;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 
+/**
+ * Item明细
+ */
 public class Items {
     private Integer id;
     
